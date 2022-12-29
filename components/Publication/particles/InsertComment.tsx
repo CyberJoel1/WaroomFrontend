@@ -3,8 +3,7 @@ import Image from 'next/image'
 import { TextInput } from 'flowbite-react'
 import { ArrowRightIcon } from '@heroicons/react/24/solid'
 type Props = {
-    setData: Dispatch<SetStateAction<boolean>>;
-    data: boolean;
+
 }
 
 
