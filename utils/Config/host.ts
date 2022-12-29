@@ -1,4 +1,4 @@
 
 export const CONFIG = {
-    host:'http://localhost:3000'
+    host:'https://waroombackend-production.up.railway.app/'
 }
